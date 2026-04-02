@@ -1,3 +1,5 @@
+![alt text](pythagore.jpg)
+
 Looks like you’re working with **Pythagorean triples**  
 The drawing shows a right triangle with:
 
